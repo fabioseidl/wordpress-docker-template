@@ -29,7 +29,3 @@ docker-compose up -d
 The webserver will start at port 80 in the container and mapped to the 80 port in yout localhost. Access this addres from you web browser and flow the steps to config the wordpress intalation.
 
 The MySQL database can be accessed using a MySQL Client (like DBeaver) at the port 3306 in .
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
-
